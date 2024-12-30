@@ -11,3 +11,5 @@ This repo stores the drawing files, so that they can be edited in excalidraw, an
 ## Links
 
 - [Project 1 File Conversion path](https://excalidraw.com/#json=oEUfA-kZTG1P5DQoU35pe,r6h8IlNETQyRc0qxI-ioiw)
+
+- [Git Workflow](https://excalidraw.com/#json=Va2FBPXIm34vDMfpI3Rfm,zgFdHBywozgTMfExv2mulw)
